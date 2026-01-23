@@ -19,6 +19,9 @@
    - Install software via installers
    - Use browser to access websites
 
+5. **Watch this intro video:**
+   - https://youtu.be/N6C2htJxvQQ
+
 4. **Optional But Helpful:**
    - Basic Python familiarity (covered if needed in Section 3)
    - Familiarity with terminal basics (can be refreshed in first 10 min)
