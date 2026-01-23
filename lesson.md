@@ -77,8 +77,8 @@ Imagine you are writing a very important document. You save it as `Final.docx`. 
    * Click **New Notebook**.  
    * In the first cell, write a simple Python print statement or just text:
 
-```
-print("Hello, GitHub! This is my first commit.")
+```python
+print("Hello, GitHub! This is my first commit.")
 ```
 
    *   
